@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\lanse\documents\visual studio 2017\projects\bresenham\bresenham\shader.h(50): warning C4101: “infoLog”: 未引用的局部变量
+c:\users\lanse\documents\visual studio 2017\projects\bresenham\bresenham\shader.h(49): warning C4101: “success”: 未引用的局部变量
+c:\users\lanse\documents\visual studio 2017\projects\bresenham\bresenham\main.cpp(268): warning C4244: “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+  Bresenham.vcxproj -> C:\Users\lanse\Documents\Visual Studio 2017\Projects\Bresenham\Debug\Bresenham.exe
+  Bresenham.vcxproj -> C:\Users\lanse\Documents\Visual Studio 2017\Projects\Bresenham\Debug\Bresenham.pdb (Partial PDB)
