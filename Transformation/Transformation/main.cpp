@@ -1,12 +1,8 @@
 #include <iostream>
-#include <windows.h>
 #include <glad/glad.h>
 #include <glew/glfw3.h>
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtc/type_ptr.hpp>
-#include <math.h>
-#include <algorithm>
-#include <vector>
 #include "imgui/imgui.h"
 #include "imgui/imgui_impl_glfw_gl3.h"
 #include "Shader.h"
@@ -131,7 +127,7 @@ int main() {
 		static GLfloat rotate_radians = 0.0f;
 		static int is_filled = 2;
 		static GLfloat translate_x = 0.0f;
-		static glm::vec3 lookat_x = { 0,1.5,2 };
+		static glm::vec3 lookat_x = { 0,0,2 };
 		static glm::vec3 lookat_y = { 0,0,0 };
 		static glm::vec3 lookat_z = { 0,1,0 };
 		static bool t_check = false;
