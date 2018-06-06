@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\lanse\documents\github\computer-graphic\bezier\bezier\main.cpp(60): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+  Bezier.vcxproj -> C:\Users\lanse\Documents\GitHub\Computer-Graphic\Bezier\Debug\Bezier.exe
+  Bezier.vcxproj -> C:\Users\lanse\Documents\GitHub\Computer-Graphic\Bezier\Debug\Bezier.pdb (Partial PDB)

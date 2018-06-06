@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\shader.h(64): warning C4101: “infoLog”: 未引用的局部变量
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\shader.h(63): warning C4101: “success”: 未引用的局部变量
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\main.cpp(188): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\main.cpp(196): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\main.cpp(210): warning C4101: “cubeTransform”: 未引用的局部变量
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\main.cpp(209): warning C4101: “transformID”: 未引用的局部变量
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\main.cpp(324): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\main.cpp(325): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\main.cpp(328): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\main.cpp(329): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\main.cpp(330): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\main.cpp(331): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\shadermapping\shadermapping\main.cpp(337): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  ShaderMapping.vcxproj -> C:\Users\lanse\Documents\GitHub\Computer-Graphic\ShaderMapping\Debug\ShaderMapping.exe
+  ShaderMapping.vcxproj -> C:\Users\lanse\Documents\GitHub\Computer-Graphic\ShaderMapping\Debug\ShaderMapping.pdb (Partial PDB)

@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\lanse\documents\github\computer-graphic\light\light\shader.h(65): warning C4101: “infoLog”: 未引用的局部变量
+c:\users\lanse\documents\github\computer-graphic\light\light\shader.h(64): warning C4101: “success”: 未引用的局部变量
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(153): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(154): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(163): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(179): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(175): warning C4101: “cubeTransform”: 未引用的局部变量
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(174): warning C4101: “transformID”: 未引用的局部变量
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(326): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(327): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(330): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(331): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(332): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(333): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lanse\documents\github\computer-graphic\light\light\main.cpp(339): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Light.vcxproj -> C:\Users\lanse\Documents\GitHub\Computer-Graphic\Light\Debug\Light.exe
+  Light.vcxproj -> C:\Users\lanse\Documents\GitHub\Computer-Graphic\Light\Debug\Light.pdb (Partial PDB)
